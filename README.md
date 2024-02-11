@@ -7,7 +7,7 @@
   <img src="https://vinyl.lofirecords.com/cdn/shop/t/11/assets/lofiboy.gif?v=103461765217895835051697884718" width="500"/>
 </div>
 
-<h3 align="center">A passionate Computer Systems Engineering student with focus in Data Engineer</h3>
+<h3 align="center">Computer Systems Engineering Student With Focus in Data</h3>
 </h3> <p align="left">
 <!-- Connect with me -->
 <!--h2 without bottom border-->

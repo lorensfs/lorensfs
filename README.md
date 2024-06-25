@@ -1,5 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center"><b>Hi there, you can call me Lorens </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--banner-->
@@ -22,24 +20,7 @@
 </p>
  
 
-<!-- 
-- 
-- Personal website [link]()
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]()
-
-<br><br>
-<!-- -->
-<!-- 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/lorensfs">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lorensfs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lorensfs&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
-<!-- -->
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+

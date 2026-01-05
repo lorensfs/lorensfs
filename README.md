@@ -71,7 +71,7 @@ I believe now more than ever that **having a strong foundation of knowledge and 
 >
 > Verify my credentials on linkedin
 
-## 📚 Learning this year
+## 📚 Interested in learning
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="65" height="65"/>

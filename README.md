@@ -12,7 +12,7 @@ I build well-architected systems and automate processes wherever possible. I try
 
 **Teaching and learning** are at the core of my approach. I believe in sharing knowledge.
 
-My expertise primarily lies in **backend development, data engineering, and DevOps**. Although I'm flexible enough to contribute in other areas, including frontend work when needed.
+My expertise primarily lies in **backend development, data engineering, and DevOps**. Although I'm flexible enough to contribute in other areas.
 
 I believe now more than ever that **having a strong foundation of knowledge and working towards solid architecture and design principles is essential** to getting the most out of AI tools.
 

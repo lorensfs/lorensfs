@@ -56,9 +56,9 @@ I believe now more than ever that **having a strong foundation of knowledge and 
 ### Databricks
 
 <p align="left">
-  <img src="./img/associate-badge-de.png" alt="Databricks Data Engineer Associate" height="120"/>
-  <img src="./img/associate-badge-gen-ai.png" alt="Databricks Generative AI Engineer Associate" height="120"/>
-  <img src="./img/professional-badge-de.png" alt="Databricks Data Engineer Professional" height="120"/>
+  <img src="./img/associate-badge-de.png" alt="Databricks Data Engineer Associate" height="150"/>
+  <img src="./img/associate-badge-gen-ai.png" alt="Databricks Generative AI Engineer Associate" height="150"/>
+  <img src="./img/professional-badge-de.png" alt="Databricks Data Engineer Professional" height="150"/>
 </p>
 
 ### GitHub

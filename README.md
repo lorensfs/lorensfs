@@ -38,7 +38,7 @@ I believe now more than ever that **having a strong foundation of knowledge and 
 </p>
 
 > [!NOTE]
-> This are my favorite used frameworks/libraries although it doesn't include all I know nor the usual standard library of every language. Take it as a reference.
+> These are my favorite used frameworks/libraries although it doesn't include all I know nor the usual standard library of every language. Take it as a reference.
 
 ## 🛡️ Certifications
 

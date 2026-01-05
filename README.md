@@ -48,9 +48,9 @@ I believe now more than ever that **having a strong foundation of knowledge and 
   <img src="./img/az900.png" alt="Azure Fundamentals" height="120"/>
   <img src="./img/ai900.png" alt="Azure AI Fundamentals" height="120"/>
   <img src="./img/dp900.png" alt="Azure Data Fundamentals" height="120"/>
+  <img src="./img/DP203.png" alt="Azure Data Engineer Associate" height="120"/>
   <img src="./img/az204.png" alt="Azure Developer Associate" height="120"/>
   <img src="./img/AZ400.png" alt="Azure DevOps Engineer Expert" height="120"/>
-  <img src="./img/DP203.png" alt="Azure Data Engineer Associate" height="120"/>
 </p>
 
 ### Databricks

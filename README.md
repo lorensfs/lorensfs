@@ -27,6 +27,8 @@ I believe now more than ever that **having a strong foundation of knowledge and 
 ## 🛠️ Frameworks & Libraries
 
 <p align="left">
+  <img src="./img/langchain.png" alt="Langchain" width="65" height="65"/>
+  <img src="./img/langgraph.png" alt="Langgraph" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="Apache Spark" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="65" height="65"/>

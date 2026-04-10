@@ -12,7 +12,7 @@ I build well-architected systems and automate processes wherever possible. I try
 
 **Teaching and learning** are at the core of my approach. I believe in sharing knowledge.
 
-My expertise primarily lies in **backend development, data engineering, and DevOps**. Although I'm flexible enough to contribute in other areas.
+My expertise primarily lies in **backend development, AI engineering, and DevOps**. Although I'm flexible enough to contribute in other areas.
 
 I believe now more than ever that **having a strong foundation of knowledge and working towards solid architecture and design principles is essential** to getting the most out of AI tools.
 
@@ -51,8 +51,7 @@ I believe now more than ever that **having a strong foundation of knowledge and 
   <img src="./img/ai900.png" alt="Azure AI Fundamentals" height="120"/>
   <img src="./img/dp900.png" alt="Azure Data Fundamentals" height="120"/>
   <img src="./img/DP203.png" alt="Azure Data Engineer Associate" height="120"/>
-  <img src="./img/az204.png" alt="Azure Developer Associate" height="120"/>
-  <img src="./img/AZ400.png" alt="Azure DevOps Engineer Expert" height="120"/>
+  <img src="./img/az_104.png" alt="Azure Administrator Associate" height="120"/>
 </p>
 
 ### Databricks
